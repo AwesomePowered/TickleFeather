@@ -1,0 +1,4 @@
+game:
+    EnableOnStart: true
+    MinimumPlayers: 5
+    ClearTicklerArmor: false
